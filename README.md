@@ -1,5 +1,5 @@
 # crisis-twitter-guidelines
-A simple guide for getting heard during a disaster
+A simple guide for getting heard during a disaster. [Contribute](https://github.com/betatim/crisis-twitter-guidelines#solution)
 
 # Problem
 When a natural disaster happens lots of aid arrives quickly but the helpers
@@ -20,3 +20,19 @@ five simple guidelines:
 3. Stay on the line
 4. Use the hashtag #SOS
 5. Consider creating a new account to protect your privacy
+
+
+# Ideas? Contribute!
+
+Everyone is welcome and the more people contribute the better! If you have
+experience with any of the below you can make a meaningful contribution:
+
+* been involved with a natural disaster somehow
+* visual design
+* distributing aid
+* using tiwtter a lot
+* focussed on finding simple solutions to hard problems
+* none of the above but eager to help(!)
+
+Who ever you are, checkout the [ROADMAP](https://github.com/betatim/crisis-twitter-guidelines/issues/1)
+and let's take it from there.
