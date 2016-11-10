@@ -1,5 +1,5 @@
 # crisis-twitter-guidelines
-A simple guide for getting heard during a disaster. [Contribute](https://github.com/betatim/crisis-twitter-guidelines#solution)
+A simple guide for getting heard during a disaster. [Contribute](https://github.com/betatim/crisis-twitter-guidelines/blob/master/README.md#ideas-contribute)
 
 # Problem
 When a natural disaster happens lots of aid arrives quickly but the helpers
