@@ -13,14 +13,16 @@ is too much noise and not enough signal.
 # Solution
 This project contains simple guidelines for social media users who are affected by a
 crisis. The idea is to make their tweets easier to find and more actionable by following
-five simple guidelines:
+three simple guidelines:
 
-1. Attach a picture to your tweet
-2. Enable geotagging
-3. Stay on the line
-4. Use the hashtag #SOS
-5. Consider creating a new account to protect your privacy
+1. **Attach a picture** to your tweet - a picture says more than 1000 words
+2. **Enable geotagging** - let people know where it is you are reporting from
+3. Use the hashtag **#SOS** - to make it easy to find your tweet
 
+In addition if you have the time it will be useful if you can:
+
+* Stay on the line - try to stay online and answer questions
+* Consider creating a new account to protect your privacy 
 
 # Ideas? Contribute!
 
