@@ -1,5 +1,7 @@
 # crisis-twitter-guidelines
-A simple guide for getting heard during a disaster. [Contribute](https://github.com/betatim/crisis-twitter-guidelines/blob/master/README.md#ideas-contribute)
+Developing a simple guide for local people to get heard during a disaster.
+
+🚧 This is a young project, lots of things are still undecided. Everyone is welcome to [contribute](https://github.com/betatim/crisis-twitter-guidelines/blob/master/README.md#ideas-contribute).🚧
 
 # Problem
 When a natural disaster happens lots of aid arrives quickly but the helpers
@@ -37,4 +39,4 @@ experience with any of the below you can make a meaningful contribution:
 * none of the above but eager to help(!)
 
 Who ever you are, checkout the [ROADMAP](https://github.com/betatim/crisis-twitter-guidelines/issues/1)
-and let's take it from there.
+and let's take it from there. Or [leave a comment](https://github.com/betatim/crisis-twitter-guidelines/issues/new).
