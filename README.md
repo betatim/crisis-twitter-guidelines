@@ -5,8 +5,8 @@ Developing a simple guide for local people to get heard during a disaster.
 Everyone is welcome to [contribute](https://github.com/betatim/crisis-twitter-guidelines/blob/master/README.md#ideas-contribute).🚧
 
 # Problem
-When a natural disaster occurs, lots of aid can arrive quickly, but the helpers lack local knowledge and information on where to go first.
-What they need are local [Gandalfs](https://en.wikipedia.org/wiki/Gandalf).
+When a natural disaster occurs, lots of aid can arrive quickly, but often the helpers lack local knowledge and information on where to go first.
+What they need are local [Gandalfs](https://en.wikipedia.org/wiki/Gandalf) - people knowledgeable with the specifics of the location and type of event who could act as local guides.
 This is especially true in the first few hours or days of an emergency.
 People have tried to use Twitter and social media to get better information but often there is too much noise and not enough signal.
 
